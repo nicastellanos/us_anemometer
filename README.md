@@ -1,2 +1,2 @@
 # us_anemometer
-Poster and Progress Powerpoint's for Senior Year Project
+Mid year capstone poster and final presentation powerpoint for Senior Year Project 2020
